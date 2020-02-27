@@ -32,6 +32,7 @@ ubah ke
 |Nurma Yunita Sari | 14117085 | https://github.com/nrmynitasr/PWL |
 |Muhammad Taufiq Hidayat | 14116162 | https://github.com/mtfiqh/PWL |
 |Laurensius Joshua Anrico Agustinus | 14117141 | https://github.com/joshuaanrico/14117141-PWL |
+|Annisa Gita Asmara | 14116027 | https://github.com/aannisagita/Tugas-PWL1 |
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
 ### Lanjutin
